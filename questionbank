@@ -1,0 +1,65 @@
+create databse and diaplay name of it 
+create the collection
+insert the records
+dropping a collection
+insert or save method
+update method 
+remove method
+removing all documents
+read operations or find method
+finding with condition
+pretty method
+method to return only one document
+using conditions in finding methods
+sort method
+indexing method or creating index
+
+
+expression
+write data types supported by mongodb
+state the use of indexing datasets
+what is mapreduce state its advantages explain with an example
+write theb  syntax and example creating simple objects and array objects using json
+write syntax along with example for encoding and decoding json objects using php
+write note on mongodb
+ 
+
+
+
+
+		UNIT3
+write the steps for migrating from rdbms to nosql
+write note on nosql
+write note on using  mysql as nosql
+
+
+
+Question bank Unit 4
+write short note on cassandra
+explain the architecture along with the component of cassandra
+write a note on cassandra data modeling
+syntax and queries for
+	creating a table
+	define a column
+	executing the query
+	altering the table
+	dropping the table
+	creating an index
+	inserting the data
+	updating the data
+	reading the data	
+	deleting the data
+	
+
+write a note on datatypes
+wirte a note on CQL reference
+	statements,types,operators,native funn,cql native aggr,
+ 
+
+
+
+
+
+		UNIT5
+explain creating blog applications with php
+write a note on nosql database administration
